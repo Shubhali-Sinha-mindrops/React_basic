@@ -52,7 +52,7 @@ const Hooks = () => {
 
   useEffect(() => {                            //this will execute, if any button is clicked.
     alert("Button is clicked!")
-    console.log('I am clicked....Save Me for next...It is hurtful...Save me...')
+    console.log('I am clicked')
   }, [num])                                          //If you want to exceute it for only first time then pass [] after comma.
 
   return (

@@ -3,16 +3,16 @@ import React, { useState } from 'react'
 const TodoList = () => {
     const employees = [
         {
-            id: 0, name: "Rishav", post: "Full Stack Developer"
+            id: 0, name: "Aarav", post: "Full Stack Developer"
         },
         {
-            id: 1, name: "Vinay", post: "Full Stack Developer"
+            id: 1, name: "Akhil", post: "Full Stack Developer"
         },
         {
-            id: 2, name: "Neha", post: "Front-end Developer"
+            id: 2, name: "Aayan", post: "Front-end Developer"
         },
         {
-            id: 3, name: "Shubhali", post: "Back-end Developer"
+            id: 3, name: "Jassi", post: "Back-end Developer"
         }
     ]
 
